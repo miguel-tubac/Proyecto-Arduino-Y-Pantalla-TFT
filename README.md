@@ -29,7 +29,7 @@ Procederemos a realizar las conexiones necesarias para el funcionamiento del pro
 
 
 Se cargará el ejemplo denominado Cuatro_Boton.ino, en el cual se encuentra el código para la interfaz. El dispositivo iniciara con un mensaje de bienvenido y así mismo con una imagen:
-![Memexd](https://i.ibb.co/VY35Lwk/20240529-094634-1.jpg)
+![Memexd](https://i.ibb.co/mzXjckV/20240529-094801-1.jpghttps://i.ibb.co/qpstt90/20240529-094634-1.jpg)
 
 El mensaje de inicio se mostrará durante 5 segundos, posteriormente se mostrara la interfaz gráfica con los siguientes botones:
 * CONSOLA
