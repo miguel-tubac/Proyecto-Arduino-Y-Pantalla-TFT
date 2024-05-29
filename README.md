@@ -41,7 +41,7 @@ El mensaje de inicio se mostrará durante 5 segundos, posteriormente se mostrara
 * STAN BYE
 
 Además, en la parte de la CONSOLA se muestra un cuadrado que cambia de color con respecto de que botón se presiones. También se muestra la hora y la fecha, iniciando la hora a las 00 horas
-![Memexd](https://i.ibb.co/Vq8xd5x/20240529-094640-1.jpg)
+![Memexd](https://i.ibb.co/8cvGvM7/20240529-094640-1.jpg)
 
 ---
 ## Funcionalidades 
@@ -65,7 +65,7 @@ Al presionar el botón de **--** se nos decrementara el número del diplay en un
 ### STAN BYE:
 
 Al posicionarnos en la ventana de STAN BYE se nos mostrara una imagen personalizada, así mismo como la hora y fecha. En la misma ventana se tiene los botones para volver a regresar a la ventana de la CONSOLA: 
-![Memexd](https://i.ibb.co/mzXjckV/20240529-094801-1.jpg)
+![Memexd](https://i.ibb.co/tHfS0S8/20240529-094801-1.jpg)
 
 ---
 En este proyecto se utilizaron los ejemplos ya dispuestos en el IDE de Arduino, los cuales son: **button_simple y graphictest_kbv** los cuales vienen instalados en la librería de MCUFRIEND_kbv.h. Además en la utilización de las imágenes se empleó el siguiente tutorial:  [ADC49 - Imágenes en TFT 3.5](https://www.youtube.com/watch?v=XTnLl6UMd6U&list=WL&index=1&t=1100s). 
